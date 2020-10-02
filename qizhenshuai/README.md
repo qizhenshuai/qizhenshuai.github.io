@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: ./dog.jpg
+heroImage: dog.jpg
 actionText: 起飞 →
 actionLink: /blog/
 features:
