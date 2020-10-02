@@ -17,21 +17,11 @@ module.exports = {
 		lastUpdated: 'Last Updated',
     nav: [
       { text: '首页', link: '/' },
-      { text: '博客', link: '/blog/' },
+      { text: '博客', link: 'https://qizhenshuai.github.io/blog' },
       { text: '日志', link: '/log/' },
       { text: '关于', link: '/about/' }
     ],
     sidebar: {
-      '/blog/': [
-        ['/blog/', '首页'],
-        {
-          title: 'FE',
-          children: [
-              ['/blog/vue', 'Vue'],
-              ['/blog/react', 'React'],
-          ]
-        },
-      ],
       '/log/': [
         ['/log/', '日志']
       ],
