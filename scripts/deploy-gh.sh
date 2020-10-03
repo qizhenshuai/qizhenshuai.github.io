@@ -7,7 +7,8 @@ set -e
 npm run qs:build
 
 # 进入生成的文件夹
-cd qizhenshuai/.vuepress/dist
+# cd qizhenshuai/.vuepress/dist
+cd public
 
 # 如果是发布到自定义域名
 # echo 'www.qizhenshuai.com' > CNAME
