@@ -1,7 +1,7 @@
 module.exports = [
   ['meta', {
     name: 'keywords',
-    content: 'vuepress,theme,yur,qizhenshuai',
+    content: 'vuepress,theme,qizhenshuai',
   }],
   ['meta', {
     name: 'apple-mobile-web-app-capable',

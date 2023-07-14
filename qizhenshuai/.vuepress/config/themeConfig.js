@@ -40,7 +40,7 @@ module.exports = {
     },
   ],
   nameplate: {
-    title: '北城',
+    title: '陶北',
   },
   buttons: [
     {
@@ -79,7 +79,7 @@ module.exports = {
     three: [
       {
         title: '吐个槽',
-        link: 'https://support.qq.com/product/106316',
+        link: 'https://support.qq.com/product/5159577',
         type: 'message',
         theme: 'outlined',
       },
