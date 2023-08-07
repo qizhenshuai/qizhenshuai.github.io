@@ -28,7 +28,8 @@
     "serve": "vuepress serve docs",
     "qs:dev": "vuepress dev qizhenshuai",
     "qs:build": "vuepress build qizhenshuai",
-    "deploy-gh": "GH=1 yarn qs:build && bash scripts/deploy-gh.sh"
+    "deploy-gh": "GH=1 yarn qs:build && bash scripts/deploy-gh.sh",
+    "update": "bash scripts/deploy-gh.sh"
   },
   "dependencies": {
     "ant-design-vue": "~1.4.11",

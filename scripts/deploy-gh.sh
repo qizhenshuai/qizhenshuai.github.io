@@ -4,7 +4,7 @@
 set -e
 
 # 生成静态文件
-npm run qs:build
+# npm run qs:build
 
 # 进入生成的文件夹
 # cd qizhenshuai/.vuepress/dist
